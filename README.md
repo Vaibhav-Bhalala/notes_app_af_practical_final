@@ -1,16 +1,20 @@
-# notes_app_practical_test_af
+Section 1: List of Screens
 
-A new Flutter project.
+- SplashScreen
+- HomePage
+- LikedNotesPage
 
-## Getting Started
+Section 2: List of Functionalities
 
-This project is a starting point for a Flutter application.
+- Display all added notes in HomePage by using ListTile
+- Add a new note by pressing on FAB and using AlertDialog box
+- Perform CRUD operations from HomePage using Firestore DB
+- Store a note which you liked from HomePage in local storage using SQLite database
+- Display stored/liked articles in LikedNotesPage from SQLite database
+- Remove stored/liked articles from LikedNotesPage by removing from SQLite database
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="" width="250px">
+<img src="" width="250px">
+<img src="" width="250px">
+<img src="" width="250px">
+<img src="" width="250px">
